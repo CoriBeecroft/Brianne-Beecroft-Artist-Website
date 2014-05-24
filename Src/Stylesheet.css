@@ -1,0 +1,130 @@
+*
+{
+	/*border: 2px solid red;*/
+}
+
+body
+{
+	background-color: #111122;
+}
+
+#letterhead_text
+{
+	font-size: 7em;
+	font-family: Tempus Sans Itc;
+	color: #25dacb;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-shadow: 5px 5px 5px #000000;
+}
+
+#letterhead_image
+{
+	margin: 0px;
+	width: 100%;
+	float: center;
+}
+
+#navigation_bar
+{
+	height: 40px;
+	background-color: #485a5c;
+	color: #25dacb;
+	font-size: 2em;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 0px;
+	box-shadow: 5px 5px #000000;
+}
+
+#picture_thumbnails
+{
+	width: 90%;
+	height: 100%;
+	margin-left: 10%;
+}
+
+#picture_thumbnails img
+{
+	display: inline;
+	width: 25%;
+	margin: 2%;
+	position: relative;
+}
+
+#image1
+{
+	width: 200px;
+	/*float: left;*/
+	float: left;
+}
+
+.right
+{
+	clear: left;
+}
+
+.center
+{
+	clear: left;
+}
+
+h1
+{
+	font-size: 3em;
+	text-align: center;
+	color: #3e5ca2;
+}
+
+h1 span 
+{
+	font-size: 0.35em;
+}
+
+p
+{
+	font-size: 1.25em;
+	color: #25dacb;
+	/*color: #005555;*/
+	margin: 0% 15% 0% 15%;
+}
+
+img
+{
+	margin: 3%;
+	width: 25%;
+	box-shadow: 5px 5px 5px #000000;
+	border-radius: 5px;
+}
+
+.thumbnail
+{
+	width: 300px;
+}
+
+ul li 
+{
+	display: inline;
+}
+
+a:link 
+{
+	text-decoration: none;
+	color: #25dacb;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+a img:hover
+{
+
+}
+
+a:visited
+{
+	color: #25dacb;
+}
