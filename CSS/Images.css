@@ -1,0 +1,49 @@
+#thumbnail_container
+{
+	width: 75%;
+	margin-left: 12%;
+	padding-left: 2%;
+}
+
+#image1
+{
+	float: left;
+	width: 29%;
+}
+
+.thumbnail
+{
+	width: 31%;
+	margin: 1%;
+	padding: 0%;
+}
+
+.big_thumbnail_container
+{
+	margin-left: 10%;
+	width: 80%;
+}
+
+.big_thumbnail_container img
+{
+	width: 45%;
+	margin: 1%;
+	position: relative;
+}
+
+.big_thumbnail_container .centered
+{
+	margin-left: 27%;
+	margin-right: 27%;
+}
+
+.big_thumbnail_container .three_across
+{
+	width: 31%;
+}
+
+.big_thumbnail_container .tall
+{
+	float: left;
+	width: 41%;
+}
