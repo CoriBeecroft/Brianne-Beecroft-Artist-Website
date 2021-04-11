@@ -1,5 +1,6 @@
 #thumbnail_container
 {
+	position: relative;
 	width: 75%;
 	margin-left: 12%;
 	padding-left: 2%;
@@ -20,6 +21,7 @@
 
 .big_thumbnail_container
 {
+	position: relative;
 	margin-left: 10%;
 	width: 80%;
 }

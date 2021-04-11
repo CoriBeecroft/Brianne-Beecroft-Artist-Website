@@ -53,8 +53,10 @@ h1
 
 hr 
 {
-	background-color: white;
+	border-color: #485a5c;
+	background-color: #485a5c;
 	width: 10%;
+	height: 2px;
 	margin-bottom: 1.5%;
 }
 
@@ -68,12 +70,12 @@ p
 	clear: both;
 }
 
-ul
+#nav_items
 {
 	padding-top: 0.5%;
 }
 
-ul li 
+#nav_items li 
 {
 	display: inline;
 }
@@ -105,4 +107,16 @@ a img
 {
 	text-decoration: none;
 	border-width: 0px;
+}
+
+#contact_info li
+{
+	/*border: 2px solid red;*/
+	padding-left: 0px;
+	text-align: center;
+}
+
+#contact_info li p 
+{
+	text-align: center;
 }
